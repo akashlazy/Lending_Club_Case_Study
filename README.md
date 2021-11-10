@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The objective is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as
+denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 
 ## Table of Contents
@@ -28,9 +29,10 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - numpy
+- library - pandas
+- library - matplotlib.pyplot
+- library - seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
