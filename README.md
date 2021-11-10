@@ -20,10 +20,12 @@ denying the loan, reducing the amount of loan, lending (to risky applicants) at 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- People with higher Grade, Sub Grade are less likely to be Defaulters.
+- People with lower Grade, Sub Grade are more likely to be Defaulters and can be asked for more Interest Rate.
+- People with 60 months term can be applied with more interest rate than people with 36 months term.
+- Top 5 purpose for which people are taking loans – Small Business, Renewable Energy, House, Other, Educational.
+- People with more employment length are given more amount of loans.
+- People with higher DTI/Monthly Income ratio are lesser likely to be defaulters.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
